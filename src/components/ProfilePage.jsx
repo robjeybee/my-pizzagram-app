@@ -1,3 +1,3 @@
 export default function ProfilePage() {
-  return <div>ProfilePage</div>;
+  return <h1>ProfilePage</h1>;
 }
